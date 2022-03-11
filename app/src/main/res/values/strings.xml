@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My first application</string>
+    <string name="hello_tvl_ict">Hello TVL-ICT</string>
+    <string name="todo">TODO</string>
 </resources>
